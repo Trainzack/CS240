@@ -1,0 +1,10 @@
+body {
+	background-color: #F4F5F4;
+}
+
+* {
+	color: #010;
+	font-family: Verdana, sans-serif;
+	text-shadow: 1px 1px 0.5px #BBB;
+	line-height: 140%;
+}
