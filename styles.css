@@ -8,3 +8,7 @@ body {
 	text-shadow: 1px 1px 0.5px #BBB;
 	line-height: 140%;
 }
+
+a {
+	color: #0b0;
+}
