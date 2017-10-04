@@ -118,27 +118,41 @@ public final class ArrayBag<T> implements BagInterface<T> {
 		else
 		{
 			// After the first for loop, this will contain the index of the item we are removing.
-			int removed = 0;
+			int entryLocation = 0;
 			
-			// Go through each element in the array, and setting the index of removed to the last one that matches
+			// Go through each element in the array, and setting the index of entryLocation to the last one that matches
 			for (int i = 0; i < numEntries; i++) {
 				
-				if (bag[i] == anEntry) {
-					removed = i;
+				if (bag[i] == anEntry) { // TODO: .equals() or ==?
+				
+					entryLocation = i;
+				
 				}
-	
 			}
 
 			// Go through the rest of the bag, moving everything back
+			for (int i = entryLocation; i < numEntries-1; i++) {
+				
+				bag[i] = bag[i + 1];
+				
+			}
+			
+			// Remove the last element of the array
+			bag[numEntries] = null
+			
+			// Reduce the number of entries to account for the lesser amount of items.
+			numEntries--;
 			
 		}
 		
-		// Reduce the number of entries
-		numEntries--;
 	}
 	
 	/** Removes all entries from this bag. */
 	public void clear() {
+		
+		while(!isEmpty()) {
+			remove()
+		}
 		
 	}
 	
