@@ -17,8 +17,10 @@ public class Main {
 
 		FixedArrayQueue<Integer> fAQ = new FixedArrayQueue<Integer>();
 		SingleLinkedDataQueue<Integer> sLDQ = new SingleLinkedDataQueue<Integer>();
+		DoubleLinkedDataQueue<Integer> cLDQ = new DoubleLinkedDataQueue<Integer>();
 		System.out.println("Fixed Array Queue works: " + queueTest(fAQ));
 		System.out.println("Single Linked Data Queue works: " + queueTest(sLDQ));
+		System.out.println("Circularly Linked Data Queue works: " + queueTest(cLDQ));
 	}
 	
 	public static boolean stackTest(StackInterface<Integer> s) {
