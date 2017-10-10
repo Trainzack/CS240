@@ -22,6 +22,11 @@ public class Node<T> {
 	
 
 	public T getData() {
+		
+		if(isHeader()) {
+			throw new IllegalStateException("Attempt to get data from a header node!");
+		}
+		
 		return data;
 	}
 

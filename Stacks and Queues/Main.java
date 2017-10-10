@@ -4,6 +4,8 @@ import java.util.EmptyStackException;
 public class Main {
 
 	/**
+	 * Creates one instance of each data structure implementation and runs it through the test for that ADT
+	 * 
 	 * @param args
 	 */
 	public static void main(String[] args) {
@@ -23,6 +25,9 @@ public class Main {
 		System.out.println("Circularly Linked Data Queue works: " + queueTest(cLDQ));
 	}
 	
+	/*
+	 * The test for ADTs implementing the StackInterface. 
+	 */
 	public static boolean stackTest(StackInterface<Integer> s) {
 		
 		// Whether this stack passes the test.
@@ -76,6 +81,9 @@ public class Main {
 		return result;
 	}
 	
+	/*
+	 * The test for queues implementing the QueueInterface.
+	 */
 	public static boolean queueTest(QueueInterface<Integer> s) {
 		
 		// Whether this stack passes the test.
@@ -84,6 +92,7 @@ public class Main {
 		for (int i = 0; i < 16; i++) {
 			s.enqueue(new Integer(i));
 			System.out.println("Enqueueing " + i);
+			System.out.println("(Front is " + s.getFront() + ")");
 			if (i % 2 == 0) {
 				System.out.println("Dequeue:\t" + s.dequeue());
 			}
