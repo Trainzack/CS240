@@ -10,7 +10,7 @@ public class Test {
 	}
 	
 	public static void TestDEQueue() {
-		DoubleLinkedDEQueue<Integer> q = new DoubleLinkedDEQueue<Integer>();
+		DequeInterface<Integer> q = new SingleLinkedDEQueue<Integer>();
 		
 		//Add 0-19 alternating between front and back.
 		for (int i = 0; i < 20; i++) {
@@ -24,7 +24,7 @@ public class Test {
 		}
 		// Remove them all from front.
 		for (int i = 0; i < 20; i++) {
-			Integer next = q.removeBack();
+			Integer next = q.removeFront();
 			System.out.println(i + ":\tRemoving " + next);
 		}
 		
