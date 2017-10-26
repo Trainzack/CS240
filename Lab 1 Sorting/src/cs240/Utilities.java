@@ -1,5 +1,10 @@
 package cs240;
 
+/**
+ * A class for various utility functions that are useful for sorting lists.
+ * @author Eli
+ *
+ */
 public class Utilities {
 
 	/**
@@ -102,11 +107,12 @@ public class Utilities {
 	}
 	
 	/**
-	 * The sequence used for shell sort A102549.
+	 * The sequence used for shell sort, A102549.
 	 * Supposedly proven by Sedgewick to run in O(N^(4/3)), which is good enough for me.
 	 * @param k The entry of the sequence to use
 	 * @return The entry of the sequence
 	 */
+	/* NOTE: just rechecked the instructions; Apparently this was TOO optimized! ;D
 	public static int shellSequence(int k) {
 		if (k < 0) {
 			throw new IllegalArgumentException();
@@ -117,5 +123,14 @@ public class Utilities {
 			// The actual sequence itself
 			return (int)(Math.pow(4, k) + 3 * Math.pow(2, k-1) + 1);
 		}
+	}*/
+	
+	/**
+	 * The sequence used for shell sort, the Hibbard sequence.
+	 * @param k The entry of the sequence to use, with 0 as the first entry in the sequence
+	 * @return 2 * (k+1) -1;
+	 */
+	public static int shellSequence(int k) {
+		return 2* (k+1) -1;	
 	}
 }

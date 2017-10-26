@@ -12,7 +12,7 @@ public class RecursiveInsertionSort {
 		
 	}
 	
-	/*
+	/**
 	 * A recursive method to sort the array via insertion sort.
 	 * @param array The array to be sorted
 	 * @param end The end of the unsorted region.

@@ -1,6 +1,6 @@
 package cs240;
 
-public class IterativeInsertionSort {
+public class LoggedIterativeInsertionSort {
 	
 	/**
 	 * Sort the elements in the given array in ascending order.
@@ -9,23 +9,31 @@ public class IterativeInsertionSort {
 	 */
 	public static int[] sort(int[] array) {
 		
+		int countMove = 0;
+		int countCompare = 0;
+		
 		// firstSorted is the first element in the array that is already sorted
 		for (int firstSorted = array.length; firstSorted > 0; firstSorted--) {
 			// Get the element that needs to be sorted next
 			// RunTests.printArray(array);
 			int nextSorted = array[firstSorted - 1];
+			countMove++;
 			for (int i = array.length -1; i >= firstSorted; i--) {
+				countCompare++;
 				if (nextSorted > array[i]) {
 					// Put the element we are holding into the right spot in the array, and grab the one that was there so that we can move the rest down.
 					int temp = array[i];
 					array[i] = nextSorted;
 					nextSorted = temp;
+					countMove += 3;
 				}
 			}
 			array[firstSorted-1] = nextSorted;
+			countMove++;
 		}
 		
-		return array;
+		int[] out = {countMove, countCompare}; 
+		return out;
 		
 	}
 	

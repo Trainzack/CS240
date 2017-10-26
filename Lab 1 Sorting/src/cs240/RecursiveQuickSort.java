@@ -2,7 +2,7 @@ package cs240;
 
 public class RecursiveQuickSort {
 	
-	/*
+	/**
 	 * Sort the elements in the given array in ascending order.
 	 * The method may change the existing array.
 	 * @return A new array, containing the sorted elements
@@ -14,7 +14,7 @@ public class RecursiveQuickSort {
 		
 	}
 	
-	/*
+	/**
 	 * Performs quicksort on the array, modifying it instead of returning anything.
 	 */
 	private static void recursiveSort(int[] array, int start, int end) {

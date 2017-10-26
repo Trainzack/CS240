@@ -1,7 +1,7 @@
 package cs240;
 
 public class IterativeSelectionSort  {
-	/*
+	/**
 	 * Sort the elements in the given array in ascending order.
 	 * The method may change the existing array.
 	 * @return A new array, containing the sorted elements

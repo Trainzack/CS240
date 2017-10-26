@@ -5,7 +5,7 @@ import java.util.LinkedList;
 
 public class IterativeMergeSort {
 	
-	/*
+	/**
 	 * Sort the elements in the given array in ascending order.
 	 * The method may change the existing array.
 	 * @return A new array, containing the sorted elements
