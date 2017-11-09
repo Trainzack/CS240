@@ -1,6 +1,14 @@
-
+/**
+ * 
+ * @author Eli Zupke
+ *
+ * @param <T> The type of data that is to be stored in this node.
+ */
 public class Node<T> {
 
+	/**
+	 * The node that this node links to.
+	 */
 	private Node<T> nextNode;
 	
 	private T data;

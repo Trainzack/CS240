@@ -1,27 +1,24 @@
 /**
- * An interface that allows for implementation of the ADT List. This list starts at zero.
+ * An interface that allows for implementation of the ADT Sorted List.
  * 
  * @author Eli Zupke
  * @param <T> The type of thing the list will contain
  */
-public interface ListInterface<T> {
+public interface SortedListInterface<T> {
 
 	/**
-	 * Adds a new item to the end of the list.
-	 * The list size will be increased by 1, and other item positions will be unaffected.
+	 * Adds a new item to the right place in the list.
+	 * The list size will be increased by 1.
 	 * @param item The object to be added
 	 */
 	public void add(T item);
 	
 	/**
-	 * Adds a new item to the specified position.
-	 * The list size will be increased by 1, and all items that are at or after the specified position will also be increased by 1 
-	 * @param item The item to add to the list
-	 * @param index The position in the list to put the item 
-	 * @throws IndexOutOfBoundsException if the specified position is outside of the list.
+	 * Removes the first occurrence of the provided item, if it exists in the list
+	 * @param item The item to remove
+	 * @return Whether it was removed.
 	 */
-	public void add(T item, int index) throws IndexOutOfBoundsException;
-	
+	public boolean remove(T item);
 	
 	/**
 	 * Removes the item that is at the given position.
@@ -34,26 +31,17 @@ public interface ListInterface<T> {
 	public T remove(int index);
 	
 	/**
-	 * Removes the item at the end of the list.
-	 * @return The item that was removed
-	 * @throws EmptyQueueException if the queue is empty
+	 * Gets the position of the first occurence of the provided entry
+	 * @param entry The entry to locate
+	 * @return The position of the entry.
 	 */
-	public T remove();
+	public int getPosition(T entry);
 	
 	/**
 	 * Empties the entire list.
 	 * After the operation, the size of the list will be 0.
 	 */
 	public void clear();
-	
-	/**
-	 * Returns the item that is at the given position.
-	 * The list will remain unchanged.
-	 * @param index
-	 * @return The item at the specified index.
-	 * @throws IndexOutOfBoundsException if the specified position is outside of the list.
-	 */
-	public T view(int index);
 	
 	/**
 	 * Checks whether the list contains a specified item.
@@ -79,14 +67,4 @@ public interface ListInterface<T> {
 	 * @return An array of the same length as the list, with the same items, in the same positions.
 	 */
 	public T[] toArray();
-	
-	/**
-	 * Replaces the item at the specified index with the given item.
-	 * The list size remains the same.
-	 * @param index	The index to replace at
-	 * @param newItem The item to put in the index.
-	 * @return The item that was replaced
-	 */
-	public T replace(int index, T newItem);
-	
 }
