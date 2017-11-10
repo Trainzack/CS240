@@ -1,0 +1,18 @@
+\BOOKMARK [0][-]{part.1}{I Testing}{}% 1
+\BOOKMARK [1][-]{section.1}{src/Test.java}{part.1}% 2
+\BOOKMARK [0][-]{part.2}{II Interfaces}{}% 3
+\BOOKMARK [1][-]{section.2}{src/PriorityQueueInterface.java}{part.2}% 4
+\BOOKMARK [1][-]{section.3}{src/SortedListInterface.java}{part.2}% 5
+\BOOKMARK [1][-]{section.4}{src/ListInterface.java}{part.2}% 6
+\BOOKMARK [0][-]{part.3}{III Exceptions}{}% 7
+\BOOKMARK [1][-]{section.5}{src/EmptyQueueException.java}{part.3}% 8
+\BOOKMARK [0][-]{part.4}{IV Nodes}{}% 9
+\BOOKMARK [1][-]{section.6}{src/Node.java}{part.4}% 10
+\BOOKMARK [1][-]{section.7}{src/DoubleNode.java}{part.4}% 11
+\BOOKMARK [1][-]{section.8}{src/ComparableNode.java}{part.4}% 12
+\BOOKMARK [0][-]{part.5}{V Implementations}{}% 13
+\BOOKMARK [1][-]{section.9}{src/LinkedPriorityQueue.java}{part.5}% 14
+\BOOKMARK [1][-]{section.10}{src/FixedArrayList.java}{part.5}% 15
+\BOOKMARK [1][-]{section.11}{src/LinkedList.java}{part.5}% 16
+\BOOKMARK [1][-]{section.12}{src/DoubleLinkedList.java}{part.5}% 17
+\BOOKMARK [1][-]{section.13}{src/LinkedSortedList.java}{part.5}% 18

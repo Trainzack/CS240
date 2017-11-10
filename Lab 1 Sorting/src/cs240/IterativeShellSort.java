@@ -3,7 +3,7 @@ package cs240;
 public class IterativeShellSort {
 	
 	/**
-	 * Sort the elements in the given array in ascending order.
+	 * Sort the elements in the given array in ascendinge order.
 	 * The method may change the existing array.
 	 * @return A new array, containing the sorted elements
 	 */
