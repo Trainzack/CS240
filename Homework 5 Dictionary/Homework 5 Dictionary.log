@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2017.4.2)  12 NOV 2017 16:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2017.4.2)  12 NOV 2017 16:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -676,7 +676,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 74.
 Here is how much of TeX's memory you used:
  10304 strings out of 494977
  152706 string characters out of 6180184
- 478280 words of memory out of 5000000
+ 482802 words of memory out of 5000000
  12581 multiletter control sequences out of 15000+600000
  47820 words of font info for 50 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
@@ -688,10 +688,10 @@ hare/texmf/fonts/type1/public/lm/lmbx9.pfb></usr/share/texmf/fonts/type1/public
 mf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6
 .pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts
 /type1/public/lm/lmtt9.pfb>
-Output written on "Homework 5 Dictionary.pdf" (15 pages, 285746 bytes).
+Output written on "Homework 5 Dictionary.pdf" (15 pages, 293811 bytes).
 PDF statistics:
- 1089 PDF objects out of 1200 (max. 8388607)
- 1052 compressed objects within 11 object streams
+ 1090 PDF objects out of 1200 (max. 8388607)
+ 1053 compressed objects within 11 object streams
  806 named destinations out of 1000 (max. 500000)
  15393 words of extra memory for PDF output out of 17280 (max. 10000000)
 
