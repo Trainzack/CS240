@@ -1,0 +1,74 @@
+\documentclass[letterpaper, 11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[margin=1in]{geometry}
+\usepackage{microtype}
+
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\hypersetup{
+	colorlinks=true,
+	urlcolor=blue,
+	linkcolor=blue}
+
+\usepackage{needspace}
+
+\title{CS240: Homework 5}
+\author{Eli Zupke}
+
+\definecolor{comment}{HTML}{3F7F5F}
+\definecolor{javadoccomment}{HTML}{7F9FBF}
+\definecolor{keyword}{HTML}{7F0055}
+\definecolor{string}{HTML}{2A00FF}
+\definecolor{codegray}{rgb}{0.2,0.2,0.2}
+\definecolor{backcolour}{rgb}{0.99,0.99,0.99}
+
+%Code listing style 
+\lstdefinestyle{javastyle}{
+	language=Java,
+	backgroundcolor=\color{backcolour},
+	commentstyle=\color{comment},
+	morecomment=[s][\color{javadoccomment}]{/**}{*/},
+	keywordstyle=\color{keyword}\bf,
+	numberstyle=\tiny\color{codegray},
+	stringstyle=\color{string},
+	basicstyle=\footnotesize\ttfamily,
+	breakatwhitespace=false,
+	breaklines=true,
+	keepspaces=true,
+	numbers=left,
+	numbersep=5pt,
+	showspaces=false,
+	showstringspaces=false,
+	showtabs=false,
+	tabsize=4,
+}
+
+\lstset{style=javastyle}
+
+\newcommand{\inputcode}[1]{
+	
+	\needspace{5em}
+	\section{#1}
+	\lstinputlisting{#1}
+	\vspace{5em}
+	\pagebreak[3]
+	
+}
+
+\begin{document}
+
+\maketitle
+
+The GitHub folder can be found at \url{URL}.
+
+\tableofcontents
+
+\inputcode{src/cs240/Test.java}
+\inputcode{src/cs240/DictionaryInterface.java}
+\inputcode{src/cs240/SortedDictionaryStaticArray.java}
+\inputcode{src/cs240/SortedDictionaryLinkedData.java}
+\end{document}
