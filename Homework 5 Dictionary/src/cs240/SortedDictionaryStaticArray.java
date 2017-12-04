@@ -33,6 +33,7 @@ public class SortedDictionaryStaticArray<K extends Comparable<? super K>, V> imp
 		end = -1;
 
 		// Instantiate the arrays for both the keys and values.
+		
 		@SuppressWarnings("unchecked")
 		K[] tempKeyArray = (K[])new Comparable[capacity]; // Unchecked cast
 		keyArray = tempKeyArray;
