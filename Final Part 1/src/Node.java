@@ -1,33 +1,20 @@
 /**
-   A single node with one pointer to another node, for use with linked data
-   @author Eli Zupke
-   @version 1.0
-*/
+ * 
+ * @author Eli Zupke
+ *
+ * @param <T> The type of data that is to be stored in this node.
+ */
 public class Node<T> {
 
-	// This is the data of type T that the node is pointing to
+	/**
+	 * The node that this node links to.
+	 */
+	private Node<T> nextNode;
+	
 	private T data;
 	
-	// This represents whether this node is the "Empty" node used in the double linked data queue.
-	private boolean isHeader;
-
-	// The one other node that this node points to.
-	private Node<T> nextNode = null;
-
 	public Node(T data) {
-		super();
 		this.data = data;
-		this.isHeader = false;
-	}
-	
-
-	public T getData() {
-		
-		if(isHeader()) {
-			throw new IllegalStateException("Attempt to get data from a header node!");
-		}
-		
-		return data;
 	}
 
 	public Node<T> getNextNode() {
@@ -37,13 +24,13 @@ public class Node<T> {
 	public void setNextNode(Node<T> nextNode) {
 		this.nextNode = nextNode;
 	}
+
+	public T getData() {
+		return data;
+	}
+
+	public void setData(T data) {
+		this.data = data;
+	}
 	
-
-	public boolean isHeader() {
-		return isHeader;
-	}
-
-	public void setIsHeader(boolean isHeader) {
-		this.isHeader = isHeader;
-	}
 }
