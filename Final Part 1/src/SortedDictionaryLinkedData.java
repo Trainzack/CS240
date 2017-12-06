@@ -232,5 +232,20 @@ public class SortedDictionaryLinkedData<K extends Comparable<? super K>, V> impl
 		front = null;
 
 	}
+	
+	@Override
+	public String toString() {
+		String out = "{";
+		
+		Node curNode = front;
+		
+		while (curNode != null) {
+			out += curNode.key + ": " + curNode.value;
+			if (curNode.next != null) out += ", ";
+			curNode = curNode.next;
+		}
+		out += "}";
+		return out;
+	}
 
 }

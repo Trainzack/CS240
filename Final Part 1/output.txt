@@ -1,0 +1,1285 @@
+=========================================
+=== December 01 Log: ====================
+=========================================
+
+A new shipment arrived!
+	Buns in stock: 162
+	Patties in stock: 124
+	Lettuce in stock: 137
+	Tomatoes in stock: 188
+	Onions in stock: 165
+	Cheese Slices in stock: 205
+10:00 --- 10 customers arrived.
+11:00 --- 32 customers arrived.
+12:00 --- 30 customers arrived.
+13:00 --- 21 customers arrived.
+14:00 --- 31 customers arrived.
+15:00 --- 79 customers arrived (29 were turned away).
+16:00 --- 80 customers arrived (30 were turned away).
+17:00 --- 54 customers arrived (4 were turned away).
+18:00 --- 81 customers arrived (31 were turned away).
+19:00 --- 26 customers arrived.
+
+---End of day inventory count---
+Customers lost today: 324
+Food expired today:
+	Buns: 0
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 17 time(s).
+	#2 was ordered 22 time(s).
+	#3 was ordered 17 time(s).
+	#4 was ordered 23 time(s).
+	#5 was ordered 24 time(s).
+	#6 was ordered 17 time(s).
+Successful customer order log:
+{Customer 1: 3, Customer 2: 5, Customer 3: 3, Customer 4: 4, Customer 5: 6, Customer 6: 4, Customer 7: 2, Customer 8: 1, Customer 9: 6, Customer 10: 1, Customer 11: 5, Customer 12: 2, Customer 13: 4, Customer 14: 4, Customer 15: 1, Customer 16: 5, Customer 17: 2, Customer 18: 4, Customer 19: 5, Customer 20: 6, Customer 21: 5, Customer 22: 5, Customer 23: 5, Customer 24: 6, Customer 25: 6, Customer 26: 6, Customer 27: 4, Customer 28: 4, Customer 29: 5, Customer 30: 3, Customer 31: 3, Customer 32: 5, Customer 33: 3, Customer 34: 4, Customer 35: 3, Customer 36: 5, Customer 37: 5, Customer 38: 6, Customer 39: 4, Customer 40: 2, Customer 41: 1, Customer 42: 6, Customer 43: 1, Customer 44: 2, Customer 45: 3, Customer 46: 2, Customer 47: 4, Customer 48: 6, Customer 49: 2, Customer 50: 5, Customer 51: 4, Customer 52: 6, Customer 53: 1, Customer 54: 6, Customer 55: 2, Customer 56: 3, Customer 57: 1, Customer 58: 1, Customer 59: 5, Customer 60: 1, Customer 61: 4, Customer 62: 6, Customer 63: 4, Customer 64: 4, Customer 65: 5, Customer 66: 6, Customer 67: 2, Customer 68: 3, Customer 69: 2, Customer 70: 1, Customer 71: 1, Customer 72: 6, Customer 73: 5, Customer 74: 2, Customer 75: 4, Customer 76: 4, Customer 77: 5, Customer 78: 2, Customer 79: 3, Customer 80: 5, Customer 81: 1, Customer 82: 2, Customer 83: 3, Customer 84: 3, Customer 85: 2, Customer 86: 4, Customer 87: 1, Customer 88: 2, Customer 89: 3, Customer 90: 2, Customer 91: 3, Customer 92: 1, Customer 93: 6, Customer 94: 1, Customer 95: 2, Customer 96: 5, Customer 97: 4, Customer 98: 5, Customer 99: 2, Customer 100: 3, Customer 101: 2, Customer 102: 4, Customer 103: 4, Customer 104: 5, Customer 105: 2, Customer 106: 3, Customer 107: 4, Customer 108: 5, Customer 109: 1, Customer 110: 5, Customer 111: 4, Customer 112: 4, Customer 113: 6, Customer 114: 6, Customer 115: 5, Customer 116: 2, Customer 117: 2, Customer 118: 5, Customer 119: 3, Customer 120: 1}
+--------------------------------
+
+=========================================
+=== December 02 Log: ====================
+=========================================
+
+	Buns in stock: 59
+	Patties in stock: 21
+	Lettuce in stock: 0
+	Tomatoes in stock: 85
+	Onions in stock: 92
+	Cheese Slices in stock: 159
+10:00 --- 58 customers arrived (8 were turned away).
+11:00 --- 18 customers arrived.
+12:00 --- 44 customers arrived.
+13:00 --- 86 customers arrived (36 were turned away).
+14:00 --- 74 customers arrived (24 were turned away).
+15:00 --- 42 customers arrived.
+16:00 --- 56 customers arrived (6 were turned away).
+17:00 --- 18 customers arrived.
+18:00 --- 14 customers arrived.
+19:00 --- 3 customers arrived.
+
+---End of day inventory count---
+Customers lost today: 413
+Food expired today:
+	Buns: 0
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 03 Log: ====================
+=========================================
+
+	Buns in stock: 59
+	Patties in stock: 21
+	Lettuce in stock: 0
+	Tomatoes in stock: 85
+	Onions in stock: 92
+	Cheese Slices in stock: 159
+10:00 --- 18 customers arrived.
+11:00 --- 33 customers arrived.
+12:00 --- 3 customers arrived.
+13:00 --- 90 customers arrived (40 were turned away).
+14:00 --- 2 customers arrived.
+15:00 --- 53 customers arrived (3 were turned away).
+16:00 --- 97 customers arrived (47 were turned away).
+17:00 --- 37 customers arrived.
+18:00 --- 76 customers arrived (26 were turned away).
+19:00 --- 93 customers arrived (43 were turned away).
+
+---End of day inventory count---
+Customers lost today: 502
+Food expired today:
+	Buns: 0
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 0
+	Cheese Slices: 159
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 04 Log: ====================
+=========================================
+
+A new shipment arrived!
+	Buns in stock: 227
+	Patties in stock: 194
+	Lettuce in stock: 172
+	Tomatoes in stock: 256
+	Onions in stock: 252
+	Cheese Slices in stock: 146
+10:00 --- 78 customers arrived (28 were turned away).
+11:00 --- 45 customers arrived.
+12:00 --- 17 customers arrived.
+13:00 --- 57 customers arrived (7 were turned away).
+14:00 --- 10 customers arrived.
+15:00 --- 46 customers arrived.
+16:00 --- 32 customers arrived.
+17:00 --- 99 customers arrived (49 were turned away).
+18:00 --- 40 customers arrived.
+19:00 --- 45 customers arrived.
+
+---End of day inventory count---
+Customers lost today: 317
+Food expired today:
+	Buns: 0
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 85
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 28 time(s).
+	#2 was ordered 29 time(s).
+	#3 was ordered 20 time(s).
+	#4 was ordered 21 time(s).
+	#5 was ordered 28 time(s).
+	#6 was ordered 26 time(s).
+Successful customer order log:
+{Customer 1: 6, Customer 2: 1, Customer 3: 4, Customer 4: 3, Customer 5: 5, Customer 6: 6, Customer 7: 3, Customer 8: 1, Customer 9: 3, Customer 10: 6, Customer 11: 6, Customer 12: 2, Customer 13: 2, Customer 14: 3, Customer 15: 3, Customer 16: 5, Customer 17: 2, Customer 18: 2, Customer 19: 5, Customer 20: 3, Customer 21: 5, Customer 22: 5, Customer 23: 2, Customer 24: 5, Customer 25: 4, Customer 26: 6, Customer 27: 3, Customer 28: 5, Customer 29: 1, Customer 30: 4, Customer 31: 1, Customer 32: 4, Customer 33: 6, Customer 34: 2, Customer 35: 1, Customer 36: 1, Customer 37: 2, Customer 38: 2, Customer 39: 5, Customer 40: 4, Customer 41: 5, Customer 42: 5, Customer 43: 3, Customer 44: 2, Customer 45: 1, Customer 46: 3, Customer 47: 5, Customer 48: 2, Customer 49: 5, Customer 50: 1, Customer 79: 6, Customer 80: 2, Customer 81: 1, Customer 82: 5, Customer 83: 2, Customer 84: 1, Customer 85: 5, Customer 86: 6, Customer 87: 4, Customer 88: 6, Customer 89: 5, Customer 90: 4, Customer 91: 2, Customer 92: 2, Customer 93: 2, Customer 94: 5, Customer 95: 2, Customer 96: 3, Customer 97: 3, Customer 98: 1, Customer 99: 6, Customer 100: 6, Customer 101: 2, Customer 102: 1, Customer 103: 4, Customer 104: 5, Customer 105: 2, Customer 106: 6, Customer 107: 3, Customer 108: 2, Customer 109: 4, Customer 110: 3, Customer 111: 6, Customer 112: 2, Customer 113: 1, Customer 114: 4, Customer 115: 2, Customer 116: 6, Customer 117: 6, Customer 118: 2, Customer 119: 5, Customer 120: 2, Customer 121: 4, Customer 122: 5, Customer 123: 6, Customer 124: 1, Customer 125: 4, Customer 126: 2, Customer 127: 6, Customer 128: 4, Customer 129: 5, Customer 130: 1, Customer 131: 5, Customer 132: 3, Customer 133: 6, Customer 134: 1, Customer 135: 1, Customer 136: 4, Customer 137: 6, Customer 138: 6, Customer 139: 6, Customer 140: 5, Customer 141: 6, Customer 142: 2, Customer 143: 4, Customer 144: 4, Customer 145: 5, Customer 146: 2, Customer 147: 6, Customer 148: 6, Customer 149: 6, Customer 150: 4, Customer 151: 3, Customer 152: 1, Customer 153: 2, Customer 154: 3, Customer 155: 1, Customer 156: 5, Customer 157: 6, Customer 158: 4, Customer 159: 3, Customer 160: 4, Customer 161: 1, Customer 162: 5, Customer 163: 5, Customer 164: 5, Customer 165: 2, Customer 166: 1, Customer 167: 1, Customer 168: 1, Customer 169: 4, Customer 170: 1, Customer 171: 3, Customer 172: 3, Customer 173: 1, Customer 174: 2, Customer 175: 1, Customer 176: 3, Customer 177: 1, Customer 178: 1, Customer 179: 4, Customer 180: 5}
+--------------------------------
+
+=========================================
+=== December 05 Log: ====================
+=========================================
+
+	Buns in stock: 95
+	Patties in stock: 62
+	Lettuce in stock: 0
+	Tomatoes in stock: 45
+	Onions in stock: 149
+	Cheese Slices in stock: 89
+10:00 --- 72 customers arrived (22 were turned away).
+11:00 --- 92 customers arrived (42 were turned away).
+12:00 --- 84 customers arrived (34 were turned away).
+13:00 --- 52 customers arrived (2 were turned away).
+14:00 --- 79 customers arrived (29 were turned away).
+15:00 --- 68 customers arrived (18 were turned away).
+16:00 --- 77 customers arrived (27 were turned away).
+17:00 --- 40 customers arrived.
+18:00 --- 44 customers arrived.
+19:00 --- 7 customers arrived.
+
+---End of day inventory count---
+Customers lost today: 615
+Food expired today:
+	Buns: 0
+	Patties: 21
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 06 Log: ====================
+=========================================
+
+	Buns in stock: 95
+	Patties in stock: 41
+	Lettuce in stock: 0
+	Tomatoes in stock: 45
+	Onions in stock: 149
+	Cheese Slices in stock: 89
+10:00 --- 97 customers arrived (47 were turned away).
+11:00 --- 71 customers arrived (21 were turned away).
+12:00 --- 59 customers arrived (9 were turned away).
+13:00 --- 19 customers arrived.
+14:00 --- 11 customers arrived.
+15:00 --- 64 customers arrived (14 were turned away).
+16:00 --- 35 customers arrived.
+17:00 --- 42 customers arrived.
+18:00 --- 65 customers arrived (15 were turned away).
+19:00 --- 39 customers arrived.
+
+---End of day inventory count---
+Customers lost today: 502
+Food expired today:
+	Buns: 59
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 92
+	Cheese Slices: 89
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 07 Log: ====================
+=========================================
+
+A new shipment arrived!
+	Buns in stock: 208
+	Patties in stock: 206
+	Lettuce in stock: 158
+	Tomatoes in stock: 192
+	Onions in stock: 204
+	Cheese Slices in stock: 168
+10:00 --- 81 customers arrived (31 were turned away).
+11:00 --- 75 customers arrived (25 were turned away).
+12:00 --- 49 customers arrived.
+13:00 --- 39 customers arrived.
+14:00 --- 2 customers arrived.
+15:00 --- 26 customers arrived.
+16:00 --- 7 customers arrived.
+17:00 --- 40 customers arrived.
+18:00 --- 84 customers arrived (34 were turned away).
+19:00 --- 67 customers arrived (17 were turned away).
+
+---End of day inventory count---
+Customers lost today: 335
+Food expired today:
+	Buns: 0
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 45
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 21 time(s).
+	#2 was ordered 25 time(s).
+	#3 was ordered 23 time(s).
+	#4 was ordered 20 time(s).
+	#5 was ordered 20 time(s).
+	#6 was ordered 26 time(s).
+Successful customer order log:
+{Customer 1: 1, Customer 2: 3, Customer 3: 4, Customer 4: 2, Customer 5: 4, Customer 6: 6, Customer 7: 4, Customer 8: 2, Customer 9: 6, Customer 10: 2, Customer 11: 6, Customer 12: 2, Customer 13: 6, Customer 14: 6, Customer 15: 2, Customer 16: 1, Customer 17: 4, Customer 18: 3, Customer 19: 4, Customer 20: 6, Customer 21: 3, Customer 22: 1, Customer 23: 6, Customer 24: 5, Customer 25: 6, Customer 26: 6, Customer 27: 3, Customer 28: 3, Customer 29: 1, Customer 30: 5, Customer 31: 1, Customer 32: 1, Customer 33: 5, Customer 34: 2, Customer 35: 6, Customer 36: 5, Customer 37: 2, Customer 38: 5, Customer 39: 4, Customer 40: 6, Customer 41: 4, Customer 42: 3, Customer 43: 5, Customer 44: 1, Customer 45: 6, Customer 46: 6, Customer 47: 4, Customer 48: 2, Customer 49: 5, Customer 50: 5, Customer 82: 5, Customer 83: 5, Customer 84: 3, Customer 85: 6, Customer 86: 3, Customer 87: 1, Customer 88: 2, Customer 89: 2, Customer 90: 3, Customer 91: 2, Customer 92: 1, Customer 93: 4, Customer 94: 3, Customer 95: 1, Customer 96: 1, Customer 97: 1, Customer 98: 6, Customer 99: 4, Customer 100: 6, Customer 101: 1, Customer 102: 2, Customer 103: 4, Customer 104: 1, Customer 105: 1, Customer 106: 3, Customer 107: 2, Customer 108: 6, Customer 109: 5, Customer 110: 2, Customer 111: 4, Customer 112: 3, Customer 113: 3, Customer 114: 2, Customer 115: 5, Customer 116: 4, Customer 117: 2, Customer 118: 6, Customer 119: 2, Customer 120: 4, Customer 121: 4, Customer 122: 3, Customer 123: 6, Customer 124: 4, Customer 125: 6, Customer 126: 5, Customer 127: 3, Customer 128: 5, Customer 129: 3, Customer 130: 2, Customer 131: 6, Customer 157: 2, Customer 158: 6, Customer 159: 1, Customer 160: 5, Customer 161: 3, Customer 162: 5, Customer 163: 2, Customer 164: 1, Customer 165: 1, Customer 166: 2, Customer 167: 5, Customer 168: 6, Customer 169: 6, Customer 170: 6, Customer 171: 2, Customer 172: 5, Customer 173: 3, Customer 174: 4, Customer 175: 1, Customer 176: 5, Customer 177: 3, Customer 178: 4, Customer 179: 3, Customer 180: 2, Customer 181: 6, Customer 182: 1, Customer 183: 3, Customer 184: 3, Customer 185: 2, Customer 186: 3, Customer 187: 4, Customer 188: 2, Customer 189: 5, Customer 190: 4, Customer 191: 1}
+--------------------------------
+
+=========================================
+=== December 08 Log: ====================
+=========================================
+
+	Buns in stock: 96
+	Patties in stock: 94
+	Lettuce in stock: 0
+	Tomatoes in stock: 38
+	Onions in stock: 109
+	Cheese Slices in stock: 123
+10:00 --- 29 customers arrived.
+11:00 --- 49 customers arrived.
+12:00 --- 79 customers arrived (29 were turned away).
+13:00 --- 32 customers arrived.
+14:00 --- 29 customers arrived.
+15:00 --- 14 customers arrived.
+16:00 --- 28 customers arrived.
+17:00 --- 47 customers arrived.
+18:00 --- 33 customers arrived.
+19:00 --- 68 customers arrived (18 were turned away).
+
+---End of day inventory count---
+Customers lost today: 408
+Food expired today:
+	Buns: 0
+	Patties: 41
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 09 Log: ====================
+=========================================
+
+	Buns in stock: 96
+	Patties in stock: 53
+	Lettuce in stock: 0
+	Tomatoes in stock: 38
+	Onions in stock: 109
+	Cheese Slices in stock: 123
+10:00 --- 1 customers arrived.
+11:00 --- 43 customers arrived.
+12:00 --- 85 customers arrived (35 were turned away).
+13:00 --- 38 customers arrived.
+14:00 --- 4 customers arrived.
+15:00 --- 95 customers arrived (45 were turned away).
+16:00 --- 67 customers arrived (17 were turned away).
+17:00 --- 91 customers arrived (41 were turned away).
+18:00 --- 45 customers arrived.
+19:00 --- 29 customers arrived.
+
+---End of day inventory count---
+Customers lost today: 498
+Food expired today:
+	Buns: 36
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 57
+	Cheese Slices: 123
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 10 Log: ====================
+=========================================
+
+A new shipment arrived!
+	Buns in stock: 204
+	Patties in stock: 185
+	Lettuce in stock: 174
+	Tomatoes in stock: 180
+	Onions in stock: 206
+	Cheese Slices in stock: 126
+10:00 --- 69 customers arrived (19 were turned away).
+11:00 --- 79 customers arrived (29 were turned away).
+12:00 --- 30 customers arrived.
+13:00 --- 75 customers arrived (25 were turned away).
+14:00 --- 5 customers arrived.
+15:00 --- 43 customers arrived.
+16:00 --- 6 customers arrived.
+17:00 --- 48 customers arrived.
+18:00 --- 70 customers arrived (20 were turned away).
+19:00 --- 82 customers arrived (32 were turned away).
+
+---End of day inventory count---
+Customers lost today: 353
+Food expired today:
+	Buns: 0
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 38
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 30 time(s).
+	#2 was ordered 26 time(s).
+	#3 was ordered 20 time(s).
+	#4 was ordered 28 time(s).
+	#5 was ordered 27 time(s).
+	#6 was ordered 23 time(s).
+Successful customer order log:
+{Customer 1: 1, Customer 2: 5, Customer 3: 3, Customer 4: 3, Customer 5: 1, Customer 6: 2, Customer 7: 3, Customer 8: 4, Customer 9: 2, Customer 10: 6, Customer 11: 5, Customer 12: 1, Customer 13: 5, Customer 14: 4, Customer 15: 4, Customer 16: 1, Customer 17: 6, Customer 18: 4, Customer 19: 5, Customer 20: 4, Customer 21: 3, Customer 22: 4, Customer 23: 4, Customer 24: 6, Customer 25: 2, Customer 26: 5, Customer 27: 1, Customer 28: 6, Customer 29: 4, Customer 30: 2, Customer 31: 4, Customer 32: 3, Customer 33: 4, Customer 34: 4, Customer 35: 2, Customer 36: 1, Customer 37: 6, Customer 38: 6, Customer 39: 5, Customer 40: 2, Customer 41: 6, Customer 42: 1, Customer 43: 5, Customer 44: 6, Customer 45: 6, Customer 46: 5, Customer 47: 2, Customer 48: 4, Customer 49: 2, Customer 50: 4, Customer 70: 1, Customer 71: 1, Customer 72: 4, Customer 73: 1, Customer 74: 4, Customer 75: 4, Customer 76: 6, Customer 77: 6, Customer 78: 6, Customer 79: 3, Customer 80: 1, Customer 81: 3, Customer 82: 1, Customer 83: 1, Customer 84: 5, Customer 85: 6, Customer 86: 1, Customer 87: 6, Customer 88: 3, Customer 89: 2, Customer 90: 3, Customer 91: 6, Customer 92: 2, Customer 93: 5, Customer 94: 1, Customer 95: 3, Customer 96: 4, Customer 97: 6, Customer 98: 2, Customer 99: 3, Customer 100: 1, Customer 101: 2, Customer 102: 3, Customer 103: 5, Customer 104: 2, Customer 105: 2, Customer 106: 4, Customer 107: 6, Customer 108: 5, Customer 109: 1, Customer 110: 5, Customer 111: 5, Customer 112: 4, Customer 113: 3, Customer 114: 4, Customer 115: 5, Customer 116: 6, Customer 117: 5, Customer 118: 3, Customer 119: 1, Customer 149: 1, Customer 150: 3, Customer 151: 3, Customer 152: 1, Customer 153: 4, Customer 154: 4, Customer 155: 2, Customer 156: 6, Customer 157: 3, Customer 158: 2, Customer 159: 4, Customer 160: 4, Customer 161: 2, Customer 162: 5, Customer 163: 1, Customer 164: 5, Customer 165: 1, Customer 166: 1, Customer 167: 2, Customer 168: 5, Customer 169: 2, Customer 170: 3, Customer 171: 5, Customer 172: 1, Customer 173: 6, Customer 174: 5, Customer 175: 1, Customer 176: 2, Customer 177: 2, Customer 178: 5, Customer 179: 1, Customer 180: 2, Customer 181: 6, Customer 182: 4, Customer 183: 5, Customer 184: 5, Customer 185: 6, Customer 186: 3, Customer 187: 3, Customer 188: 5, Customer 189: 5, Customer 190: 2, Customer 191: 1, Customer 192: 2, Customer 193: 4, Customer 194: 4, Customer 195: 2, Customer 196: 1, Customer 197: 5, Customer 198: 1, Customer 199: 6, Customer 200: 4, Customer 201: 1, Customer 202: 2}
+--------------------------------
+
+=========================================
+=== December 11 Log: ====================
+=========================================
+
+	Buns in stock: 70
+	Patties in stock: 51
+	Lettuce in stock: 0
+	Tomatoes in stock: 11
+	Onions in stock: 107
+	Cheese Slices in stock: 73
+10:00 --- 91 customers arrived (41 were turned away).
+11:00 --- 15 customers arrived.
+12:00 --- 14 customers arrived.
+13:00 --- 94 customers arrived (44 were turned away).
+14:00 --- 54 customers arrived (4 were turned away).
+15:00 --- 1 customers arrived.
+16:00 --- 6 customers arrived.
+17:00 --- 25 customers arrived.
+18:00 --- 84 customers arrived (34 were turned away).
+19:00 --- 69 customers arrived (19 were turned away).
+
+---End of day inventory count---
+Customers lost today: 453
+Food expired today:
+	Buns: 0
+	Patties: 51
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 12 Log: ====================
+=========================================
+
+	Buns in stock: 70
+	Patties in stock: 0
+	Lettuce in stock: 0
+	Tomatoes in stock: 11
+	Onions in stock: 107
+	Cheese Slices in stock: 73
+10:00 --- 95 customers arrived (45 were turned away).
+11:00 --- 86 customers arrived (36 were turned away).
+12:00 --- 82 customers arrived (32 were turned away).
+13:00 --- 85 customers arrived (35 were turned away).
+14:00 --- 59 customers arrived (9 were turned away).
+15:00 --- 26 customers arrived.
+16:00 --- 29 customers arrived.
+17:00 --- 75 customers arrived (25 were turned away).
+18:00 --- 66 customers arrived (16 were turned away).
+19:00 --- 84 customers arrived (34 were turned away).
+
+---End of day inventory count---
+Customers lost today: 687
+Food expired today:
+	Buns: 60
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 52
+	Cheese Slices: 73
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 13 Log: ====================
+=========================================
+
+	Buns in stock: 10
+	Patties in stock: 0
+	Lettuce in stock: 0
+	Tomatoes in stock: 11
+	Onions in stock: 55
+	Cheese Slices in stock: 0
+10:00 --- 93 customers arrived (43 were turned away).
+11:00 --- 67 customers arrived (17 were turned away).
+12:00 --- 28 customers arrived.
+13:00 --- 13 customers arrived.
+14:00 --- 44 customers arrived.
+15:00 --- 58 customers arrived (8 were turned away).
+16:00 --- 66 customers arrived (16 were turned away).
+17:00 --- 86 customers arrived (36 were turned away).
+18:00 --- 35 customers arrived.
+19:00 --- 72 customers arrived (22 were turned away).
+
+---End of day inventory count---
+Customers lost today: 562
+Food expired today:
+	Buns: 0
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 11
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 14 Log: ====================
+=========================================
+
+	Buns in stock: 10
+	Patties in stock: 0
+	Lettuce in stock: 0
+	Tomatoes in stock: 0
+	Onions in stock: 55
+	Cheese Slices in stock: 0
+10:00 --- 52 customers arrived (2 were turned away).
+11:00 --- 64 customers arrived (14 were turned away).
+12:00 --- 27 customers arrived.
+13:00 --- 29 customers arrived.
+14:00 --- 5 customers arrived.
+15:00 --- 93 customers arrived (43 were turned away).
+16:00 --- 24 customers arrived.
+17:00 --- 35 customers arrived.
+18:00 --- 56 customers arrived (6 were turned away).
+19:00 --- 52 customers arrived (2 were turned away).
+
+---End of day inventory count---
+Customers lost today: 437
+Food expired today:
+	Buns: 0
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 15 Log: ====================
+=========================================
+
+A new shipment arrived!
+	Buns in stock: 163
+	Patties in stock: 159
+	Lettuce in stock: 155
+	Tomatoes in stock: 147
+	Onions in stock: 226
+	Cheese Slices in stock: 158
+10:00 --- 36 customers arrived.
+11:00 --- 76 customers arrived (26 were turned away).
+12:00 --- 39 customers arrived.
+13:00 --- 46 customers arrived.
+14:00 --- 59 customers arrived (9 were turned away).
+15:00 --- 60 customers arrived (10 were turned away).
+16:00 --- 65 customers arrived (15 were turned away).
+17:00 --- 21 customers arrived.
+18:00 --- 75 customers arrived (25 were turned away).
+19:00 --- 46 customers arrived.
+
+---End of day inventory count---
+Customers lost today: 393
+Food expired today:
+	Buns: 10
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 55
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 28 time(s).
+	#2 was ordered 20 time(s).
+	#3 was ordered 25 time(s).
+	#4 was ordered 13 time(s).
+	#5 was ordered 24 time(s).
+	#6 was ordered 20 time(s).
+Successful customer order log:
+{Customer 1: 5, Customer 2: 6, Customer 3: 5, Customer 4: 6, Customer 5: 4, Customer 6: 6, Customer 7: 3, Customer 8: 5, Customer 9: 6, Customer 10: 1, Customer 11: 1, Customer 12: 5, Customer 13: 1, Customer 14: 4, Customer 15: 1, Customer 16: 5, Customer 17: 3, Customer 18: 6, Customer 19: 4, Customer 20: 5, Customer 21: 5, Customer 22: 1, Customer 23: 6, Customer 24: 2, Customer 25: 1, Customer 26: 4, Customer 27: 2, Customer 28: 4, Customer 29: 5, Customer 30: 4, Customer 31: 3, Customer 32: 5, Customer 33: 2, Customer 34: 2, Customer 35: 5, Customer 36: 6, Customer 37: 6, Customer 38: 6, Customer 39: 2, Customer 40: 2, Customer 41: 3, Customer 42: 1, Customer 43: 3, Customer 44: 6, Customer 45: 1, Customer 46: 3, Customer 47: 2, Customer 48: 1, Customer 49: 3, Customer 50: 5, Customer 51: 5, Customer 52: 3, Customer 53: 4, Customer 54: 3, Customer 55: 1, Customer 56: 4, Customer 57: 3, Customer 58: 2, Customer 59: 1, Customer 60: 3, Customer 61: 5, Customer 62: 2, Customer 63: 2, Customer 64: 6, Customer 65: 5, Customer 66: 1, Customer 67: 2, Customer 68: 6, Customer 69: 4, Customer 70: 1, Customer 71: 1, Customer 72: 5, Customer 73: 6, Customer 74: 1, Customer 75: 1, Customer 76: 6, Customer 77: 3, Customer 78: 1, Customer 79: 1, Customer 80: 3, Customer 81: 5, Customer 82: 3, Customer 83: 6, Customer 84: 4, Customer 85: 5, Customer 86: 3, Customer 113: 4, Customer 114: 2, Customer 115: 6, Customer 116: 2, Customer 117: 1, Customer 118: 5, Customer 119: 2, Customer 120: 6, Customer 121: 2, Customer 122: 3, Customer 123: 1, Customer 124: 5, Customer 125: 6, Customer 126: 6, Customer 127: 3, Customer 128: 1, Customer 129: 3, Customer 130: 3, Customer 131: 3, Customer 132: 4, Customer 133: 5, Customer 134: 5, Customer 135: 1, Customer 136: 2, Customer 137: 1, Customer 138: 2, Customer 139: 6, Customer 140: 2, Customer 141: 1, Customer 142: 1, Customer 143: 3, Customer 144: 4, Customer 145: 3, Customer 146: 1, Customer 147: 2, Customer 148: 5, Customer 149: 3, Customer 150: 3, Customer 151: 5, Customer 152: 1, Customer 153: 3, Customer 154: 1, Customer 155: 2, Customer 156: 5}
+--------------------------------
+
+=========================================
+=== December 16 Log: ====================
+=========================================
+
+	Buns in stock: 48
+	Patties in stock: 54
+	Lettuce in stock: 0
+	Tomatoes in stock: 37
+	Onions in stock: 78
+	Cheese Slices in stock: 114
+10:00 --- 39 customers arrived.
+11:00 --- 48 customers arrived.
+12:00 --- 54 customers arrived (4 were turned away).
+13:00 --- 51 customers arrived (1 were turned away).
+14:00 --- 68 customers arrived (18 were turned away).
+15:00 --- 8 customers arrived.
+16:00 --- 38 customers arrived.
+17:00 --- 68 customers arrived (18 were turned away).
+18:00 --- 83 customers arrived (33 were turned away).
+19:00 --- 53 customers arrived (3 were turned away).
+
+---End of day inventory count---
+Customers lost today: 510
+Food expired today:
+	Buns: 0
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 17 Log: ====================
+=========================================
+
+	Buns in stock: 48
+	Patties in stock: 54
+	Lettuce in stock: 0
+	Tomatoes in stock: 37
+	Onions in stock: 78
+	Cheese Slices in stock: 114
+10:00 --- 59 customers arrived (9 were turned away).
+11:00 --- 92 customers arrived (42 were turned away).
+12:00 --- 19 customers arrived.
+13:00 --- 56 customers arrived (6 were turned away).
+14:00 --- 77 customers arrived (27 were turned away).
+15:00 --- 72 customers arrived (22 were turned away).
+16:00 --- 76 customers arrived (26 were turned away).
+17:00 --- 38 customers arrived.
+18:00 --- 35 customers arrived.
+19:00 --- 97 customers arrived (47 were turned away).
+
+---End of day inventory count---
+Customers lost today: 621
+Food expired today:
+	Buns: 0
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 0
+	Cheese Slices: 114
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 18 Log: ====================
+=========================================
+
+A new shipment arrived!
+	Buns in stock: 176
+	Patties in stock: 187
+	Lettuce in stock: 120
+	Tomatoes in stock: 160
+	Onions in stock: 187
+	Cheese Slices in stock: 119
+10:00 --- 44 customers arrived.
+11:00 --- 85 customers arrived (35 were turned away).
+12:00 --- 87 customers arrived (37 were turned away).
+13:00 --- 65 customers arrived (15 were turned away).
+14:00 --- 75 customers arrived (25 were turned away).
+15:00 --- 97 customers arrived (47 were turned away).
+16:00 --- 51 customers arrived (1 were turned away).
+17:00 --- 13 customers arrived.
+18:00 --- 48 customers arrived.
+19:00 --- 89 customers arrived (39 were turned away).
+
+---End of day inventory count---
+Customers lost today: 546
+Food expired today:
+	Buns: 0
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 37
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 19 time(s).
+	#2 was ordered 14 time(s).
+	#3 was ordered 12 time(s).
+	#4 was ordered 22 time(s).
+	#5 was ordered 20 time(s).
+	#6 was ordered 21 time(s).
+Successful customer order log:
+{Customer 1: 1, Customer 2: 5, Customer 3: 1, Customer 4: 2, Customer 5: 1, Customer 6: 5, Customer 7: 3, Customer 8: 3, Customer 9: 4, Customer 10: 1, Customer 11: 4, Customer 12: 5, Customer 13: 4, Customer 14: 4, Customer 15: 1, Customer 16: 3, Customer 17: 2, Customer 18: 2, Customer 19: 1, Customer 20: 4, Customer 21: 6, Customer 22: 5, Customer 23: 5, Customer 24: 2, Customer 25: 5, Customer 26: 2, Customer 27: 3, Customer 28: 3, Customer 29: 1, Customer 30: 2, Customer 31: 5, Customer 32: 2, Customer 33: 4, Customer 34: 6, Customer 35: 5, Customer 36: 6, Customer 37: 1, Customer 38: 1, Customer 39: 5, Customer 40: 4, Customer 41: 4, Customer 42: 6, Customer 43: 5, Customer 44: 1, Customer 45: 4, Customer 46: 4, Customer 47: 6, Customer 48: 4, Customer 49: 4, Customer 50: 2, Customer 51: 5, Customer 52: 1, Customer 53: 2, Customer 54: 5, Customer 55: 4, Customer 56: 6, Customer 57: 5, Customer 58: 3, Customer 59: 1, Customer 60: 5, Customer 61: 6, Customer 62: 5, Customer 63: 4, Customer 64: 6, Customer 65: 6, Customer 66: 6, Customer 67: 4, Customer 68: 6, Customer 69: 5, Customer 70: 4, Customer 71: 6, Customer 72: 2, Customer 73: 6, Customer 74: 3, Customer 75: 1, Customer 76: 1, Customer 77: 6, Customer 78: 5, Customer 79: 4, Customer 80: 1, Customer 81: 6, Customer 82: 6, Customer 83: 3, Customer 84: 2, Customer 85: 3, Customer 86: 4, Customer 87: 2, Customer 88: 6, Customer 89: 6, Customer 90: 5, Customer 91: 4, Customer 92: 3, Customer 93: 4, Customer 94: 6, Customer 130: 6, Customer 131: 1, Customer 132: 2, Customer 133: 4, Customer 134: 4, Customer 135: 5, Customer 136: 1, Customer 137: 5, Customer 138: 3, Customer 139: 1, Customer 140: 2, Customer 141: 6, Customer 142: 3, Customer 143: 1}
+--------------------------------
+
+=========================================
+=== December 19 Log: ====================
+=========================================
+
+	Buns in stock: 80
+	Patties in stock: 91
+	Lettuce in stock: 0
+	Tomatoes in stock: 36
+	Onions in stock: 121
+	Cheese Slices in stock: 85
+10:00 --- 84 customers arrived (34 were turned away).
+11:00 --- 98 customers arrived (48 were turned away).
+12:00 --- 23 customers arrived.
+13:00 --- 55 customers arrived (5 were turned away).
+14:00 --- 11 customers arrived.
+15:00 --- 85 customers arrived (35 were turned away).
+16:00 --- 58 customers arrived (8 were turned away).
+17:00 --- 52 customers arrived (2 were turned away).
+18:00 --- 11 customers arrived.
+19:00 --- 92 customers arrived (42 were turned away).
+
+---End of day inventory count---
+Customers lost today: 569
+Food expired today:
+	Buns: 0
+	Patties: 54
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 20 Log: ====================
+=========================================
+
+	Buns in stock: 80
+	Patties in stock: 37
+	Lettuce in stock: 0
+	Tomatoes in stock: 36
+	Onions in stock: 121
+	Cheese Slices in stock: 85
+10:00 --- 9 customers arrived.
+11:00 --- 52 customers arrived (2 were turned away).
+12:00 --- 52 customers arrived (2 were turned away).
+13:00 --- 83 customers arrived (33 were turned away).
+14:00 --- 34 customers arrived.
+15:00 --- 18 customers arrived.
+16:00 --- 34 customers arrived.
+17:00 --- 83 customers arrived (33 were turned away).
+18:00 --- 39 customers arrived.
+19:00 --- 58 customers arrived (8 were turned away).
+
+---End of day inventory count---
+Customers lost today: 462
+Food expired today:
+	Buns: 48
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 78
+	Cheese Slices: 85
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 21 Log: ====================
+=========================================
+
+A new shipment arrived!
+	Buns in stock: 171
+	Patties in stock: 202
+	Lettuce in stock: 146
+	Tomatoes in stock: 197
+	Onions in stock: 182
+	Cheese Slices in stock: 120
+10:00 --- 20 customers arrived.
+11:00 --- 39 customers arrived.
+12:00 --- 36 customers arrived.
+13:00 --- 73 customers arrived (23 were turned away).
+14:00 --- 13 customers arrived.
+15:00 --- 1 customers arrived.
+16:00 --- 12 customers arrived.
+17:00 --- 9 customers arrived.
+18:00 --- 15 customers arrived.
+19:00 --- 37 customers arrived.
+
+---End of day inventory count---
+Customers lost today: 132
+Food expired today:
+	Buns: 0
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 36
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 23 time(s).
+	#2 was ordered 23 time(s).
+	#3 was ordered 23 time(s).
+	#4 was ordered 24 time(s).
+	#5 was ordered 12 time(s).
+	#6 was ordered 18 time(s).
+Successful customer order log:
+{Customer 1: 6, Customer 2: 2, Customer 3: 3, Customer 4: 1, Customer 5: 2, Customer 6: 2, Customer 7: 4, Customer 8: 2, Customer 9: 2, Customer 10: 5, Customer 11: 1, Customer 12: 2, Customer 13: 6, Customer 14: 3, Customer 15: 2, Customer 16: 2, Customer 17: 3, Customer 18: 6, Customer 19: 2, Customer 20: 6, Customer 21: 4, Customer 22: 1, Customer 23: 2, Customer 24: 1, Customer 25: 1, Customer 26: 1, Customer 27: 2, Customer 28: 4, Customer 29: 6, Customer 30: 6, Customer 31: 4, Customer 32: 6, Customer 33: 5, Customer 34: 2, Customer 35: 6, Customer 36: 3, Customer 37: 5, Customer 38: 4, Customer 39: 2, Customer 40: 3, Customer 41: 4, Customer 42: 3, Customer 43: 3, Customer 44: 6, Customer 45: 4, Customer 46: 1, Customer 47: 2, Customer 48: 2, Customer 49: 2, Customer 50: 3, Customer 51: 5, Customer 52: 6, Customer 53: 4, Customer 54: 4, Customer 55: 2, Customer 56: 3, Customer 57: 3, Customer 58: 1, Customer 59: 1, Customer 60: 6, Customer 61: 3, Customer 62: 4, Customer 63: 3, Customer 64: 5, Customer 65: 4, Customer 66: 4, Customer 67: 4, Customer 68: 4, Customer 69: 2, Customer 70: 6, Customer 71: 5, Customer 72: 6, Customer 73: 4, Customer 74: 1, Customer 75: 4, Customer 76: 2, Customer 77: 4, Customer 78: 3, Customer 79: 1, Customer 80: 6, Customer 81: 5, Customer 82: 4, Customer 83: 1, Customer 84: 1, Customer 85: 4, Customer 86: 1, Customer 87: 5, Customer 88: 2, Customer 89: 3, Customer 90: 1, Customer 91: 4, Customer 92: 3, Customer 93: 1, Customer 94: 1, Customer 95: 4, Customer 96: 3, Customer 97: 6, Customer 98: 1, Customer 99: 1, Customer 100: 2, Customer 101: 1, Customer 102: 5, Customer 103: 5, Customer 104: 3, Customer 105: 3, Customer 106: 4, Customer 107: 5, Customer 108: 3, Customer 109: 1, Customer 110: 3, Customer 111: 1, Customer 112: 3, Customer 113: 6, Customer 114: 6, Customer 115: 4, Customer 116: 2, Customer 117: 3, Customer 118: 4, Customer 119: 6, Customer 120: 2, Customer 121: 5, Customer 122: 1, Customer 123: 3}
+--------------------------------
+
+=========================================
+=== December 22 Log: ====================
+=========================================
+
+	Buns in stock: 71
+	Patties in stock: 102
+	Lettuce in stock: 0
+	Tomatoes in stock: 56
+	Onions in stock: 95
+	Cheese Slices in stock: 85
+10:00 --- 94 customers arrived (44 were turned away).
+11:00 --- 78 customers arrived (28 were turned away).
+12:00 --- 16 customers arrived.
+13:00 --- 60 customers arrived (10 were turned away).
+14:00 --- 36 customers arrived.
+15:00 --- 86 customers arrived (36 were turned away).
+16:00 --- 29 customers arrived.
+17:00 --- 93 customers arrived (43 were turned away).
+18:00 --- 51 customers arrived (1 were turned away).
+19:00 --- 79 customers arrived (29 were turned away).
+
+---End of day inventory count---
+Customers lost today: 622
+Food expired today:
+	Buns: 0
+	Patties: 37
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 23 Log: ====================
+=========================================
+
+	Buns in stock: 71
+	Patties in stock: 65
+	Lettuce in stock: 0
+	Tomatoes in stock: 56
+	Onions in stock: 95
+	Cheese Slices in stock: 85
+10:00 --- 21 customers arrived.
+11:00 --- 24 customers arrived.
+12:00 --- 16 customers arrived.
+13:00 --- 44 customers arrived.
+14:00 --- 44 customers arrived.
+15:00 --- 93 customers arrived (43 were turned away).
+16:00 --- 71 customers arrived (21 were turned away).
+17:00 --- 56 customers arrived (6 were turned away).
+18:00 --- 1 customers arrived.
+19:00 --- 1 customers arrived.
+
+---End of day inventory count---
+Customers lost today: 371
+Food expired today:
+	Buns: 32
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 43
+	Cheese Slices: 85
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 24 Log: ====================
+=========================================
+
+	Buns in stock: 39
+	Patties in stock: 65
+	Lettuce in stock: 0
+	Tomatoes in stock: 56
+	Onions in stock: 52
+	Cheese Slices in stock: 0
+10:00 --- 49 customers arrived.
+11:00 --- 83 customers arrived (33 were turned away).
+12:00 --- 9 customers arrived.
+13:00 --- 76 customers arrived (26 were turned away).
+14:00 --- 67 customers arrived (17 were turned away).
+15:00 --- 61 customers arrived (11 were turned away).
+16:00 --- 4 customers arrived.
+17:00 --- 55 customers arrived (5 were turned away).
+18:00 --- 45 customers arrived.
+19:00 --- 2 customers arrived.
+
+---End of day inventory count---
+Customers lost today: 451
+Food expired today:
+	Buns: 0
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 56
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 25 Log: ====================
+=========================================
+
+A new shipment arrived!
+	Buns in stock: 179
+	Patties in stock: 193
+	Lettuce in stock: 120
+	Tomatoes in stock: 104
+	Onions in stock: 193
+	Cheese Slices in stock: 106
+10:00 --- 67 customers arrived (17 were turned away).
+11:00 --- 59 customers arrived (9 were turned away).
+12:00 --- 34 customers arrived.
+13:00 --- 97 customers arrived (47 were turned away).
+14:00 --- 78 customers arrived (28 were turned away).
+15:00 --- 75 customers arrived (25 were turned away).
+16:00 --- 3 customers arrived.
+17:00 --- 34 customers arrived.
+18:00 --- 29 customers arrived.
+19:00 --- 81 customers arrived (31 were turned away).
+
+---End of day inventory count---
+Customers lost today: 450
+Food expired today:
+	Buns: 0
+	Patties: 65
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 25 time(s).
+	#2 was ordered 16 time(s).
+	#3 was ordered 13 time(s).
+	#4 was ordered 20 time(s).
+	#5 was ordered 15 time(s).
+	#6 was ordered 18 time(s).
+Successful customer order log:
+{Customer 1: 5, Customer 2: 4, Customer 3: 2, Customer 4: 6, Customer 5: 4, Customer 6: 6, Customer 7: 3, Customer 8: 3, Customer 9: 4, Customer 10: 2, Customer 11: 1, Customer 12: 5, Customer 13: 4, Customer 14: 2, Customer 15: 2, Customer 16: 4, Customer 17: 3, Customer 18: 6, Customer 19: 4, Customer 20: 3, Customer 21: 5, Customer 22: 4, Customer 23: 1, Customer 24: 3, Customer 25: 1, Customer 26: 3, Customer 27: 3, Customer 28: 6, Customer 29: 6, Customer 30: 5, Customer 31: 4, Customer 32: 2, Customer 33: 3, Customer 34: 1, Customer 35: 4, Customer 36: 3, Customer 37: 6, Customer 38: 4, Customer 39: 1, Customer 40: 1, Customer 41: 1, Customer 42: 4, Customer 43: 6, Customer 44: 2, Customer 45: 1, Customer 46: 1, Customer 47: 6, Customer 48: 6, Customer 49: 5, Customer 50: 5, Customer 68: 5, Customer 69: 5, Customer 70: 1, Customer 71: 4, Customer 72: 5, Customer 73: 5, Customer 74: 2, Customer 75: 2, Customer 76: 6, Customer 77: 5, Customer 78: 1, Customer 79: 1, Customer 80: 1, Customer 81: 2, Customer 82: 3, Customer 83: 1, Customer 84: 5, Customer 85: 4, Customer 86: 2, Customer 87: 4, Customer 88: 1, Customer 89: 6, Customer 90: 1, Customer 91: 5, Customer 92: 6, Customer 93: 2, Customer 94: 6, Customer 95: 2, Customer 96: 6, Customer 97: 4, Customer 98: 2, Customer 99: 2, Customer 100: 4, Customer 101: 4, Customer 102: 1, Customer 103: 4, Customer 104: 6, Customer 105: 1, Customer 106: 1, Customer 107: 1, Customer 108: 6, Customer 109: 3, Customer 110: 1, Customer 111: 2, Customer 112: 1, Customer 113: 1, Customer 114: 1, Customer 115: 2, Customer 116: 6, Customer 117: 5, Customer 127: 5, Customer 128: 6, Customer 129: 4, Customer 130: 3, Customer 131: 3, Customer 132: 4, Customer 133: 1}
+--------------------------------
+
+=========================================
+=== December 26 Log: ====================
+=========================================
+
+	Buns in stock: 85
+	Patties in stock: 34
+	Lettuce in stock: 0
+	Tomatoes in stock: 15
+	Onions in stock: 121
+	Cheese Slices in stock: 75
+10:00 --- 50 customers arrived.
+11:00 --- 81 customers arrived (31 were turned away).
+12:00 --- 46 customers arrived.
+13:00 --- 83 customers arrived (33 were turned away).
+14:00 --- 30 customers arrived.
+15:00 --- 94 customers arrived (44 were turned away).
+16:00 --- 24 customers arrived.
+17:00 --- 41 customers arrived.
+18:00 --- 24 customers arrived.
+19:00 --- 5 customers arrived.
+
+---End of day inventory count---
+Customers lost today: 478
+Food expired today:
+	Buns: 39
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 52
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 27 Log: ====================
+=========================================
+
+	Buns in stock: 46
+	Patties in stock: 34
+	Lettuce in stock: 0
+	Tomatoes in stock: 15
+	Onions in stock: 69
+	Cheese Slices in stock: 75
+10:00 --- 76 customers arrived (26 were turned away).
+11:00 --- 4 customers arrived.
+12:00 --- 30 customers arrived.
+13:00 --- 84 customers arrived (34 were turned away).
+14:00 --- 46 customers arrived.
+15:00 --- 34 customers arrived.
+16:00 --- 9 customers arrived.
+17:00 --- 79 customers arrived (29 were turned away).
+18:00 --- 74 customers arrived (24 were turned away).
+19:00 --- 30 customers arrived.
+
+---End of day inventory count---
+Customers lost today: 466
+Food expired today:
+	Buns: 0
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 0
+	Cheese Slices: 75
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 28 Log: ====================
+=========================================
+
+	Buns in stock: 46
+	Patties in stock: 34
+	Lettuce in stock: 0
+	Tomatoes in stock: 15
+	Onions in stock: 69
+	Cheese Slices in stock: 0
+10:00 --- 51 customers arrived (1 were turned away).
+11:00 --- 43 customers arrived.
+12:00 --- 40 customers arrived.
+13:00 --- 59 customers arrived (9 were turned away).
+14:00 --- 84 customers arrived (34 were turned away).
+15:00 --- 74 customers arrived (24 were turned away).
+16:00 --- 23 customers arrived.
+17:00 --- 64 customers arrived (14 were turned away).
+18:00 --- 40 customers arrived.
+19:00 --- 72 customers arrived (22 were turned away).
+
+---End of day inventory count---
+Customers lost today: 550
+Food expired today:
+	Buns: 0
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 15
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 29 Log: ====================
+=========================================
+
+A new shipment arrived!
+	Buns in stock: 177
+	Patties in stock: 140
+	Lettuce in stock: 111
+	Tomatoes in stock: 134
+	Onions in stock: 208
+	Cheese Slices in stock: 110
+10:00 --- 76 customers arrived (26 were turned away).
+11:00 --- 39 customers arrived.
+12:00 --- 57 customers arrived (7 were turned away).
+13:00 --- 84 customers arrived (34 were turned away).
+14:00 --- 97 customers arrived (47 were turned away).
+15:00 --- 36 customers arrived.
+16:00 --- 91 customers arrived (41 were turned away).
+17:00 --- 68 customers arrived (18 were turned away).
+18:00 --- 30 customers arrived.
+19:00 --- 20 customers arrived.
+
+---End of day inventory count---
+Customers lost today: 502
+Food expired today:
+	Buns: 0
+	Patties: 34
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 0
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 10 time(s).
+	#2 was ordered 15 time(s).
+	#3 was ordered 15 time(s).
+	#4 was ordered 22 time(s).
+	#5 was ordered 17 time(s).
+	#6 was ordered 17 time(s).
+Successful customer order log:
+{Customer 1: 3, Customer 2: 4, Customer 3: 4, Customer 4: 2, Customer 5: 2, Customer 6: 4, Customer 7: 1, Customer 8: 2, Customer 9: 2, Customer 10: 6, Customer 11: 4, Customer 12: 1, Customer 13: 4, Customer 14: 6, Customer 15: 4, Customer 16: 5, Customer 17: 5, Customer 18: 5, Customer 19: 3, Customer 20: 2, Customer 21: 3, Customer 22: 5, Customer 23: 4, Customer 24: 4, Customer 25: 6, Customer 26: 5, Customer 27: 4, Customer 28: 6, Customer 29: 5, Customer 30: 3, Customer 31: 2, Customer 32: 4, Customer 33: 5, Customer 34: 6, Customer 35: 1, Customer 36: 5, Customer 37: 3, Customer 38: 2, Customer 39: 3, Customer 40: 3, Customer 41: 2, Customer 42: 5, Customer 43: 1, Customer 44: 2, Customer 45: 4, Customer 46: 5, Customer 47: 5, Customer 48: 6, Customer 49: 6, Customer 50: 4, Customer 77: 5, Customer 78: 2, Customer 79: 3, Customer 80: 5, Customer 81: 6, Customer 82: 6, Customer 83: 1, Customer 84: 4, Customer 85: 3, Customer 86: 6, Customer 87: 6, Customer 88: 2, Customer 89: 5, Customer 90: 5, Customer 91: 3, Customer 92: 4, Customer 93: 6, Customer 94: 4, Customer 95: 2, Customer 96: 3, Customer 97: 2, Customer 98: 4, Customer 99: 3, Customer 100: 2, Customer 101: 6, Customer 102: 3, Customer 103: 2, Customer 104: 6, Customer 105: 4, Customer 106: 1, Customer 107: 4, Customer 108: 4, Customer 109: 4, Customer 110: 1, Customer 111: 5, Customer 112: 4, Customer 113: 6, Customer 114: 1, Customer 115: 1, Customer 116: 1, Customer 117: 3, Customer 118: 4, Customer 119: 5, Customer 120: 3, Customer 121: 6, Customer 122: 6}
+--------------------------------
+
+=========================================
+=== December 30 Log: ====================
+=========================================
+
+	Buns in stock: 96
+	Patties in stock: 25
+	Lettuce in stock: 0
+	Tomatoes in stock: 55
+	Onions in stock: 151
+	Cheese Slices in stock: 78
+10:00 --- 30 customers arrived.
+11:00 --- 61 customers arrived (11 were turned away).
+12:00 --- 98 customers arrived (48 were turned away).
+13:00 --- 24 customers arrived.
+14:00 --- 31 customers arrived.
+15:00 --- 91 customers arrived (41 were turned away).
+16:00 --- 97 customers arrived (47 were turned away).
+17:00 --- 48 customers arrived.
+18:00 --- 90 customers arrived (40 were turned away).
+19:00 --- 20 customers arrived.
+
+---End of day inventory count---
+Customers lost today: 590
+Food expired today:
+	Buns: 46
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 69
+	Cheese Slices: 0
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== December 31 Log: ====================
+=========================================
+
+	Buns in stock: 50
+	Patties in stock: 25
+	Lettuce in stock: 0
+	Tomatoes in stock: 55
+	Onions in stock: 82
+	Cheese Slices in stock: 78
+10:00 --- 93 customers arrived (43 were turned away).
+11:00 --- 28 customers arrived.
+12:00 --- 13 customers arrived.
+13:00 --- 34 customers arrived.
+14:00 --- 62 customers arrived (12 were turned away).
+15:00 --- 89 customers arrived (39 were turned away).
+16:00 --- 17 customers arrived.
+17:00 --- 90 customers arrived (40 were turned away).
+18:00 --- 81 customers arrived (31 were turned away).
+19:00 --- 66 customers arrived (16 were turned away).
+
+---End of day inventory count---
+Customers lost today: 573
+Food expired today:
+	Buns: 0
+	Patties: 0
+	Lettuce: 0
+	Tomatoes: 0
+	Onions: 0
+	Cheese Slices: 78
+Orders served today:
+	#1 was ordered 0 time(s).
+	#2 was ordered 0 time(s).
+	#3 was ordered 0 time(s).
+	#4 was ordered 0 time(s).
+	#5 was ordered 0 time(s).
+	#6 was ordered 0 time(s).
+Successful customer order log:
+{}
+--------------------------------
+
+=========================================
+=== January 01 Log: =====================
+=========================================
+
+This In-N-Out is shut down for having consistently low sales and customer satisfaction, despite high customer throughput. If only the higher-ups at In-N-Out waited until this data got back, then maybe they would have noticed that it was their own fault for not supplying the store with enough food.

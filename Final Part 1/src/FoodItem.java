@@ -3,7 +3,11 @@
  * @author eli
  *
  */
-public class FoodItem {
+public class FoodItem implements Comparable<FoodItem> {
+
+	public int getExpiryDate() {
+		return expiryDate;
+	}
 
 	// The day that this item will expire.
 	private int expiryDate;
@@ -33,6 +37,11 @@ public class FoodItem {
 
 	public FoodType getType() {
 		return type;
+	}
+
+	@Override
+	public int compareTo(FoodItem arg0) {
+		return expiryDate - arg0.expiryDate;
 	}
 	
 }
